@@ -1,0 +1,230 @@
+"Lennonjohto ilmoittaa ""OH-ABC, VAHVISTA KAHDEKSAN PISTE KOLME
+KOLME"". Miten ilmoitat lennonjohdolle, että ilma-aluksessa on käytössä radio,
+jolla mahdollista käyttää 8.33 kHz kanavaväliä?"::2:"""VAHVISTAN KAHDEKSAN PISTE KOLME KOLME, OH-ABC""":"""EI KAHDEKSAN PISTE KOLME KOLME, OH-ABC""":"""KYLLÄ, OH-ABC""":"""VAHVISTAN, OH-ABC"""::1 0 0 0::
+"Olet odotuspaikalla, olet suorittanut lentoonlähtötarkistuksen, ja olet valmiina
+rullaamaan kiitotielle lentoonlähtöä varten. Miten ilmoitat lennonjohdolle olevasi
+valmis?"::2:(KUTSUMERKKI) VALMIS.:(KUTSUMERKKI) (SIJAINTI) VALMIS RULLAAMAAN KIITOTIELLE.:(KUTSUMERKKI) (SIJAINTI) VALMIS JATKAMAAN.:(KUTSUMERKKI) VALMIS LENTOONLÄHTÖÖN.::1 0 0 0::
+"Lähialueen lyhenne on:"::2:CTR.:CTA.:CTZ.:MATZ.::1 0 0 0::
+"Mikäli torni pyytää ilmoittamaan kun kiitotie on ylitetty, ilmoitus tapahtuu
+sanomalla:"::2:KIITOTIE VAPAUTETTU.:OLEN YLITTÄNYT KIITOTIEN.:OLEN JÄTTÄNYT KIITOTIEN.:OLEN KIITOTIEN TOISELLA PUOLEN.::1 0 0 0::
+Miten ilmoitat kellonajat oikein kun lähetät radiolla?::2:en käytä mitään järjestelmää, normaalisti pelkät minuutit:UTC aika 24h:paikallinen aika 24h:paikallinen aika 12h am/pm::1 0 0 0::
+"Mitä tarkoittaa menetelmäsana ""WILCO""?"::2:Ymmärsin sanomasi ja noudatan sitä.:Lopetin sanomani ja odotan vastausta.:Lupa myönnetty.:Kuulin viimeisimmän sanomasi kokonaan.::1 0 0 0::
+"Korkeus 4 500ft QNH luetaan:"::2:NELJÄ TUHATTA VIISI SATAA JALKAA.:NELJÄ VIISI TUHATTA JALKAA.:NELJÄ PISTE VIISI.:NELJÄ VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA.::1 0 0 0::
+"Sanonta ""YOU LAND"", tunnistavan koneen lentäjält
+ä tunnistettavan koneen 
+lentäjälle, tarkoittaa:"::2:Laske tälle lentopaikalle:Seuraa minua:Laske seuraavalle lentopaikalle:Voit jatkaa::1 0 0 0::
+"Lentäjä kysyy QFE:tä seuraavasti:"::2:PYYDÄN QFE.:PYYDÄN QUEEN FOX EASY.:PYYDÄN QUEBEQ FOXTROT ECHO.:PYYDÄN QUEBEQ FOX ECHO.::1 0 0 0::
+"Kuuluvuusasteikolla ""kuuluvuus 5"" tarkoittaa:"::2:Kuuluu hyvin:Kuuluu, mutta huonosti:Kuuluu tyydyttävästi:Ei saa selvää::1 0 0 0::
+"Mitä tarkoittaa menetelmäsana ""SELVÄ, SELVITETTY""?"::2:Lupa myönnetty.:Ymmärsin sanomasi ja noudatan sitä.:Lopetin sanomani ja odotan vastausta.:Olen vastaanottanut viimeisen lähetyksesi.::1 0 0 0::
+Aallonpituus::2:On aallon nopeuden ja taajuuden suhde:Ei ole riippuvainen taajuudesta:On amplitudin ja taajuuden suhde:On jännitteen neliön ja vastuksen suhde::1 0 0 0::
+"Lennonjohtaja antaa lentäjälle selvityksen nousta tiettyyn korkeuteen käyttäen
+sanontaa:"::2:NOUSE...:SELVÄ...:SÄILYTÄ..:JÄTÄ XX YY VARTEN::1 0 0 0::
+"Kello on 9:10. Haluat sanoa ajan 10:20. Miten muotoilet sanoman?"::2:YKSI NOLLA KAKSI NOLLA:KELLO KYMMENEN KAKSIKYMMENTÄ:KYMMENEN KAKSI NOLLA:KAKSI NOLLA::1 0 0 0::
+"""ODOTA"" tarkoittaa:"::2:Odota, kutsun sinua uudelleen.:"Valitse transponderiin ""STANDBY"".":Jatka nykyisellä suunnalla ja kuuntele.:Pysy nykyisessä paikassa.::1 0 0 0::
+Mikä on yleisen keskustelujakson taajuus?::2:123,450:121,500:119,700:120,000::1 0 0 0::
+Mikä koodi kertoo magneettisen suunnan jostakin asemasta lentokoneeseen?::2:QDR:QDM:QNH:QGH::1 0 0 0::
+"Termi ""erityis-VFR-lento"" tarkoittaa:"::2:VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa.:VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueen ulkopuolella näkösääolosuhteita huonommissa sääolosuhteissa.:Lentoa, johon ei vaikuta sääolosuhteet.:IFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa.::1 0 0 0::
+Miten pyydät toistamaan sanoman?::2:SANO UUDELLEEN:TOISTA VIESTI:OLE HYVÄ JA SANO UUDELLEEN:SANO KAIKKI UUDELLEEN::1 0 0 0::
+"Mikä radiopuhelinliikenteen sanonta tarkoitta. ""OLEMME SUURESSA
+VÄLITTÖMÄSSÄ VAARASSA JA TARVITSEMME VÄLITÖNTÄ APUA""?"::2:"Puhuttu sana ""MAYDAY"".":"Puhuttu sana ""VARMISTUS"".":"Puhuttu sana ""PANPAN"".":"Sana ""MAYDAY"" lähetettynä morseaakkosin."::1 0 0 0::
+"Kuulet viestin ""OH-ABC KOODAA IDENT"". Sinun tulee:"::2:Käyttää tunnistuspulssia tutkavastaajassa.:"Valita transponderiin ""STANDBY"".":Vastata tunnuksellasi.:Valita transponderiin ALT-korkeuden ilmaisin (moodi C).::1 0 0 0::
+"Jos lennonjohtaja lähettää ohjeen jonka ymmärrät ja aiot noudattaa,
+vakiovastaus on:"::2:WILCO.:VAHVISTAN.:TARKISTA.:SELVÄ.::1 0 0 0::
+"Mitä tarkoittaa lyhenne ""QNH""?"::2:Korkeusmittarin paineasteikon asetus, jolla korkeusmittari näyttää korkeutta meren pinnasta.:Magneettinen suunta joltakin asemalta.:Tosisuunta joltakin asemalta.:Ilmakehän paine lentokentän korkeudessa.::1 0 0 0::
+Mitkä ovat hätäviestin kaksi luokkaa?::2:Hätätila ja pakkotila:MAYDAY ja PAN PAN:Hätätila ja varmistus:Hätätila ja PAN PAN::1 0 0 0::
+Mikä seuraavista ehdollisista selvityksistä on oikein?::2:Laskevan Cessnan jälkeen siirry kiitotielle 15 ja odota laskevan jälkeen:Rullaa kiitotielle 15 laskevan Cessnan jälkeen ja odota:Line up runway 15 and wait behind landing Cessna:After Cessna has landed line up runway 15 and wait::1 0 0 0::
+"Tunnus C-MNXY lausutaan radioon:"::2:CHARLIE MIKE NOVEMBER X-RAY YANKEE:CHARLIE MIKE NECTAR X-RAY YANKEE:CHARLIE METRO NOVEMBER EXTRA YANKEE:CHARLIE MIKE NOVEMBER EXTRA YANKEE::1 0 0 0::
+Kuinka kauas maa-asemasta ilmailun VHF-radiopuhelinliikenteen lähetyksen voi odottaa kuuluvan kun lennämme 3000 jalan korkeudella (lähetysteho on riittävä)?::2:127 km:äärettömän kauas:36 km:68 km::1 0 0 0::
+"Mitä takoittaa jos radiokokeilun yhteydessä saadaan vastaus ""reading you two""?"::2:Readable now and then:Readable, but with difficulty:Unreadable:Perfectly readable::1 0 0 0::
+"Mitä taajuutta tunnistavan ja tunnistettavan kon
+en tulee käyttää keskinäisessä 
+radiokeskustelussaan?"::2:Kansainvälistä hätätaajuutta 121.5 Mhz:Paikallista ilmavoimien taajuutta:Ilmasta-ilmaan taajuutta:Paikallista hätätaajuutta::1 0 0 0::
+Mikä on yleinen ilmaliikennepalveluasemien varataajuus Suomessa?::2:119,700:121,500:123,450:123,775::1 0 0 0::
+Mikä seuraavista ei ole takaisinluettava sanoma?::2:Observe traffic towards SIURO:Squawk IDENT:Join northern holding via SIURO:Continue approach::1 0 0 0::
+Milloin saat MONITOR käskyn jälkeen lopettaa aseman kuuntelun?::2:Kun saat luvan:Et saa:Milloin vaan:Kun poistut ilmatilasta::1 0 0 0::
+Mikä seuraavista taajuuksista on kansainvälinen hätätaajuus?::2:121.500 MHz:121.050 MHz:122.050 MHz:122.500 MHz::1 0 0 0::
+"Mitä tarkoittaa sanonta ""MONITOR""?"::2:KUUNTELE:PÄÄTE:SEURAA:TIEDOSTA::1 0 0 0::
+"Taajuus 121.5 MHz on:"::2:Kansainvälinen hätätaajuus:Paikallinen valvontataajuus:Taajuus ilmasta-ilmaan kommunikaatiota varten:Paikallinen hätätaajuus::1 0 0 0::
+"Mitä tarkoittaa menetelmäsana ""KUITTAA""?"::2:Ilmoita, että olet vastaanottanut ja ymmärtänyt sanoman.:Olen vastaanottanut viimeisen lähetyksesi:Lopetin sanomani ja odotan vastausta.:Sano uudelleen kaikki tai seuraava osa lähetyksestäsi.::1 0 0 0::
+"Mitä sanontaa lennojohto käyttää kun ilmoittaa lentäjälle, että paikkailmoitusta ei
+tarvitse tehdä pakollisen ilmoittautumispisteen X päällä?"::2:JÄTÄ POIS PAIKKAILMOITUS X:PERUUTA PAIKKAILMOITUS X:"EI PAIKKAILMOITUSTA X:SSÄ":ÄLÄ KERRO PAIKKAA X::1 0 0 0::
+Miten ilmoitat olevasi valmis aloittamaan maalinlaskun?::2:Ready to commence spot landing:Could now begin landing without power:Ready to make forced landing:Eager to start balked landing::1 0 0 0::
+Lennonjohtajalla on reittiselvitys valmiina luettavaksi mutta sinulla ei juuri nyt ole aikaa vastaanottaa sitä. Mitä sanot?::2:Standby:I don't have time right now, call you back later:Wait:Go ahead::1 0 0 0::
+Miten HF-aallot etenevät?::2:Ionosfäärieteneminen:Maanpintaeteneminen:Näköeteneminen:Avaruuseteneminen::1 0 0 0::
+Milloin saa käyttää lyhennettyä kutsumerkkiä?::2:Kun maa-asema on käyttänyt sitä ensin:Aina jos sekaantumisen vaaraa ei ole:Valvomattomassa ilmatilassa oman harkinnan mukaan:Auringon nousun ja laskun välisenä aikana::1 0 0 0::
+"Lennonjohtaja sanoo ""SQUAWK CHARLIE"". Mitä hän haluaa sinun tekevän?"""::2:Asetan korkeuskoodauksen päälle transponderiin:Rutistan Charlie-nimistä ystävääni kovasti vähän aikaa:Lennän suoraan NDB-majakalle jonka tunnus on Charlie:Painan ident-nappulaa toisiotutkavastaimessa::1 0 0 0::
+Mikä on kohinasalvan tehtävä?::2:Sillä pystytään suodattamaan pois radiojakson taustamelu korvien ylimääräisen kuormittamisen helpottamiseksi:Sillä pystytään suodattamaan pois turhat lähetykset kuten kohteliaisuudet ja muut lentotehtävään liittymättömät vapaamuotoiset löpinät:Sillä voidellaan nokkapyörän välykset laskun aikana taphtuvasta värähtelystä aiheutuvan kohinan poistamiseksi:Sillä voidellaan huollon yhteydessä mikrofoni radiolähetykseen mahdollisesti johtuvan taustamelun, kuten moottori ja matkustajat jne, poistamiseksi::1 0 0 0::
+"Taajuus 121.725 Mhz tulee lausua radioon näin:"::2:YKSI KAKSI YKSI DESIMAALI SEITSEMÄN KAKSI VIISI.:YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI VIISI.:YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI.:YKSI KAKSIKYMMENTÄ YKSI DESIMAALI SEITSEMÄN KAKSIKYMMENTÄ VIISI.::1 0 0 0::
+"Mikäli lentäjä haluaa lähettää sanoman, joka koskee jonkin toisen ilma-aluksen
+turvallisuutta, hänen tulee aloittaa sanomansa:"::2:"Sanalla ""PANPAN""":"Sanalla ""MAYDAY""":"Morsekoodilla ""MAYDAY""":"Morsekoodilla ""XXX"""::1 0 0 0::
+"Tehdäksesi radioliikenteestäsi tehokkaamman, sinun tulee:"::2:Käyttää vakio äänenvoimakkuutta:Sanoa sanat kahdesti:Sanoa lauseiden väliin sana EROTUS:Moduloida ääntäsi::1 0 0 0::
+"Lennonjohto antaa kehotuksen laskeutumiseen käyttäen sanontaa:"::2:LASKEUDU...:SÄILYTÄ...:SELVÄ...:JÄTÄ XX YY VARTEN::1 0 0 0::
+"Mitä tarkoittaa termi ""LENTOPINTA (Flight Level)""?"::2:Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin standardiasetukseen 1013,2 hpa perustuen.:"Painetaso joka perustuu paikalliseen QNH:hon.":"Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin
+paikalliseen QNH-asetukseen perustuen.":"Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin
+paikalliseen QFE-asetukseen perustuen."::1 0 0 0::
+"Kuuluvuusasteikolla ""kuuluvuus 1"" tarkoittaa:"::2:Ei saa selvää:Kuuluu taustamelua:Kuuluu, mutta huonosti:Kuuluu hyvin::1 0 0 0::
+"Taajuusmoduloidussa lähetteessä:"::2:kantoaallon amplitudi on vakio:signaalin amplitudi on heikko:signaali määrittää amplitudin:kantoaallon taajuus on vakio::1 0 0 0::
+Mikä seuraavista viesteistä saa korkeimman prioriteetin?::2:PYYDÄN QDM.:ILMOITA LOPPUOSA NUMERO YKSI.:HUOMIOI KUNNOSSAPITOTYÖ RULLAUSTIELLÄ.:RULLAA POUSARILLE.::1 0 0 0::
+"""ILMOITA"" tarkoittaa:"::2:Ilmoita seuraava tieto.:Välitä viestisi.:Jatka viestiäsi:Sano uudelleen.::1 0 0 0::
+"Toisiotutkavastaimen koodit: Hätätila?"::2:7700:7600:7500:2000::1 0 0 0::
+"Ilma-alus saavuttaa parhaan yhteysetäisyyden VHF-liikenteessä, jos ilma-alus
+on:"::2:Korkealla lentokentän läheisyydessä.:Meren pinnan korkeudella lentokentän lähellä.:Korkealla ja kaukana.:Matalalla ja kaukana.::1 0 0 0::
+"Jos lentäjä ei kykene saamaan yhteyttä asemaan määrätyllä taajuudella, hänen
+tulee:"::2:Lähettää sokeasti.:Lähettää taajuudella 121.5.:Yrittää toisella, asiaan liittyvällä taajuudella.:Lähettää lausuen sanat kahdesti.::1 0 0 0::
+Mikä seuraavista on ehdollinen selvitys?::2:"OH-ABC, JAT 737:N JÄLKEEN RULLAA ODOTUSPAIKALLE D KIITOTIE 26.":JAT 737, RULLAA KIITOTIELLE JA ODOTA.:OH-ABC, LENTOONLÄHTÖ HARKINTASI MUKAAN.:O-BC, KERRO LOPPUOSA, OLET VUOROLLA KOLME.::1 0 0 0::
+"Miksi ""lähetetään sokeasti""?"::2:kaksipuolinen yhteys ei toimi mutta oletetaan että vastaanottaja pystyy kuulemaan:aurinkolasit ovat unohtuneet kotiin ja aurinko häikäisee niin että vastaanottajaa ei pysty näkemään:koska se on hauskempaa:sokeassa lähetyksessä viestin sisältö muuttuu sitä mukaan kun se välitetään eteenpäin lopulliselle vastaanottajalle::1 0 0 0::
+"Matkalennolla huomaat että pienkone on tehnyt pakkolaskun niitylle. Kone
+näyttää vahingoittumattomalta ja lentäjä on kunnossa. Millä sanonnalla aloitat
+viestin, jolla kerrot lennonjohdolle tapahtumasta?"::2:PANPAN, PANPAN, PANPAN:HÄTÄTILA, HÄTÄTILA, HÄTÄTILA:MAYDAY, MAYDAY, MAYDAY:APUA-APUA, APUA-APUA, APUA-APUA::1 0 0 0::
+"Mitä tarkoittaa termi ""VFR-lento""?"::2:Lento näkölentosääntöjen mukaisesti.:Koululento.:Lento mittarilentosääntöjen mukaisesti.:Lento ilman matkustajia.::1 0 0 0::
+Mikä seuraavista lyhenteistä tulee lausua kirjain kirjaimelta ICAOn aakkosin?::2:Y-BC.:CAVOK.:RVR.:ILS.::1 0 0 0::
+"Lennät Etelä-Suomessa koneella OH-ABC. Korkeusmittariasetus on standardi.
+Kun lennonjohto kysyy korkeuttasi, mikä on oikea vastaus?"::2:LENTOPINTA VIISI NOLLA, O-BC:LENTOPINNALLA VIISI NOLLA, O-BC:SÄILYTÄN LENTOPINTA VIISI NOLLA; O-BC:O-BC, LENTOPINTA VIISI NOLLA::1 0 0 0::
+"Milloin saa käyttää sanaa ""TAKE-OFF""?"::2:Vain lentoonlähtöselvityksessä ja sitä peruttaessa:Aina kun tarkoitetaan lentoonlähtöä:Vain kun ollaan liikennealueella:Vain lennonjohtaja saa käyttää sanaa TAKE-OFF::1 0 0 0::
+"Tasavirtapiirissä teho on:"::2:jännitteen neliön ja vastuksen suhde:riippuvainen kappaleeseen vaikuttavasta voimasta:amplitudin ja taajuuden suhde:virran neliön ja vastuksen suhde::1 0 0 0::
+"Kuuluvuusasteikolla ""kuuluvuus 3"" tarkoittaa:"::2:Kuuluu, mutta huonosti:Kuuluu taustamelua:Kuuluu hyvin:Ei saa selvää::1 0 0 0::
+"Millä seuraavista sanomaluokista on etuoikeus radiopuhelinliikenteessä muihin
+nähden:"::2:Hätäkutsut, hätäsanomat ja hätäliikenne.:Lentoturvallisuussanomat.:Radiosuuntimisliikenne.:Pakkotilannesanomat sisältäen myös sanomat, joita edeltää lääkintäkuljetustunnus.::1 0 0 0::
+"Mikä seuraavista väittämistä on oikein?
+""Maasta ilmaan kommunikoinnissa lennonjohtaja aina…"":"::2:Sanoo ensiksi kutsumerkkisi.:Sanoo viimeiseksi kutsumerkkisi.:Sanoo kutsumerkkisi ensiksi tai viimeiseksi, riippuen asiasta.:Sanoo kutsumerkkisi vain avauskutsussa.::1 0 0 0::
+"Lentäjän tulee lukea takaisin vähintään:"::2:Toisiotutkakoodi, lentoonlähtöselvitys, korkeusmittariasetus, radiotaajuudet.:Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot.:Reittiselvitykset, nopeusohjeet, säätiedot, rullausselvitys, kiitotien kuntotiedot.:"Korkeusmittariasetus, rullausohjeet, määränpään sää, kiitotieselvitykset, lähestymisen
+apuvälineiden tilannetiedotukset."::1 0 0 0::
+"Lennonjohtaja haluaa tiedon siitä, millä korkeudella lentokone on. Hän käyttää
+sanontaa:"::2:ILMOITA KORKEUS:LÄHETÄ KORKEUS:MIKÄ ON KORKEUTESI:PYYDÄN KORKEUS::1 0 0 0::
+Miten taajuus 122,65 ilmoitetaan oikein?::2:Yksi kaksi kaksi desimaali kuusi viisi nolla:Yksi kaksi kaksi pilkku kuusi viisi:Yksi kaksi kaksi desimaali kuusi viisi:Yksi kaksi kaksi pilkku kuusi viisi nolla::1 0 0 0::
+"Mikä transponderin moodi antaa korkeustiedon:"::2:Mod C:Mod B:Mod A:Mod D::1 0 0 0::
+"Sanonta, jolla hätäkutsu alkaa radioliikenteessä, on:"::2:MAYDAY, MAYDAY, MAYDAY:HÄTÄTILA, HÄTÄTILA, HÄTÄTILA:PANPAN, PANPAN, PANPAN:APUA, APUA, APUA::1 0 0 0::
+Mikä sanomaluokka seuraavista on vähiten kiireellinen?::2:Lentosäännöllisyyssanoma:Hätäsanoma:Pakkotilasanoma:Sääsanoma::1 0 0 0::
+Mikä on HF-aallon yö-ilmiö?::2:Aalto ei vaimene alimpien ionisoivien kerrosten katoamisen takia :Aalto muodostaa ionosfäärissä valaisevia yöpilviä:Aalto taittuu merenrannalla maanpinnan sähkönjohtavuuden muuttuessa:Yö-ilmiö tapahtuu UHF-aalloille::1 0 0 0::
+"Aika 10:20 lähetetään:"::2:YKSI NOLLA KAKSI NOLLA tai KAKSI NOLLA:KYMMENEN KAKSI NOLLA:KELLO KYMMENEN KAKSIKYMMENTÄ:YKSI NOLLA KAKSIKYMMENTÄ::1 0 0 0::
+"Kun ilma-alus ei kykene muodostamaan keskusteluyhteyttä toisen maa- tai ilmaaseman
+kanssa, ilma-aluksen tulee lähettää sanomansa kahdesti ja aloittaa
+sanoma termillä:"::2:LÄHETÄN SOKEASTI:SANAT KAHDESTI:PANPAN:MAYDAY::1 0 0 0::
+Miten saat lennonjohtajan toistamaan sanoman?::2:SAY AGAIN:ECHO:REPEAT:PLAY BACK::1 0 0 0::
+"Lentäjä, joka koodaa A7700 ilmoittaa maa-asemalle, että:"::2:Hänen koneensa on hädässä:Hänen matkustajansa on sairas:Hänen radionsa ei toimi:Hänen lentonsa on kaapattu::1 0 0 0::
+"Lähiliikenne on:"::2:Kaikki liikenne lentopaikan liikennealueella ja kaikki lentopaikan läheisyydessä lentävät ilma-alukset:Kaikki lentopaikalla olevat ilma-alukset.:Kaikki lentopaikalla olevat ajoneuvot.:Kaikki liikenne::1 0 0 0::
+"Lyhenne ATIS tarkoittaa:"::2:Lentopaikan automaattinen tiedotuspalvelu.:Lentoliikenteen tiedotuspalvelu.:Lentokentän liikennetiedotus.:Ilma-aluksen tekninen tietopalvelu.::1 0 0 0::
+"Sanonta ""CALL SIGN"", tunnistavan koneen lentäjäl
+tä tunnistettavan koneen 
+lentäjälle, tarkoittaa:"::2:Mikä on kutsumerkkisi?:Ilmoita päällikön nimi!:Lähetä hätäkutsu!:Palaa lähtökentällesi!::1 0 0 0::
+Miten taajuus 122,600 ilmoitetaan oikein?::2:Yksi kaksi kaksi desimaali kuusi:Yksi kaksi kaksi desimaali kuusi nolla:Yksi kaksi kaksi desimaali kuusi nolla nolla:Yksi kaksi kaksi desimaali kuusi sataa::1 0 0 0::
+"Kuuluvuusasteikolla ""kuuluvuus 2"" tarkoittaa:"::2:Saa selvää silloin tällöin:Kuuluu taustamelua:Ei saa selvää:Kuuluu hyvin::1 0 0 0::
+"Mikä kaava kuvaa VHF-radioaaltojen kantaman ja lentokorkeuden välistä suhdetta?
+<img src='data:image/png;base64,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'>"::2:"Kaava 2
+d=1,25v(h1+h2)":"Kaava 1
+d=1,25(h1+h2)":"Kaava 4
+d=1,25x2v(h1+h2)":"Kaava 3
+d=1,25(h1²+h2²)"::1 0 0 0::
+Kuinka pitkä on tyypillinen ilma-aluksessa käytettävä säteilijä-antenni?::2:Neljäsosa-aallon pituinen:Puolen aallon pituinen:Yhden aallon pituinen:Kahden aallon pituinen::1 0 0 0::
+"""KUUNTELE"" tarkoittaa:"::2:Kuuntele… taajuutta.:Toistan selvyyden tai tärkeyden vuoksi.:Kuuntele moottorin ääntä.:Ota yhteys taajuudella...::1 0 0 0::
+"Kuuluvuusasteikolla ""kuuluvuus 4"" tarkoittaa:"::2:Kuuluu tyydyttävästi:Kuuluu, mutta huonosti:Kuuluu taustamelua:Ei saa selvää::1 0 0 0::
+"Sen aseman kutsutunnus, joka antaa lentotiedotuspalvelua, on:"::2:TIEDOTUS:JOHTO:KOTI:RADIO::1 0 0 0::
+"Toisiotutkavastaimen koodit: Radiohäiriö?"::2:7600:7700:7500:2000::1 0 0 0::
+"Jos ATIS-järjestelmä ei ole käytettävissä, lentäjä pyytää lähtöön tarvittavia tietoja
+seuraavalla sanonnalla:"::2:PYYDÄN LÄHTÖOHJEITA:SAANKO LÄHTÖTIEDOT:HALUAISIN SAADA LÄHTÖTIEDOT:KERRO LÄHTÖTIEDOT::1 0 0 0::
+Mitä termiä käytetään, kun halutaan peruuttaa aikaisemmin lähetetty selvitys?::2:PERUUTAN:UUDELLEENSELVITYS:ÄLÄ HUOMIOI:EI::1 0 0 0::
+"Mitä tarkoittaa sanonta ""ACKNOWLEDGE""?"::2:KUITTAA:VASTAA:TUNNUSTA:TIEDOSTA::1 0 0 0::
+"Ilma-alus on aluksi selvitetty nousemaan pinnalle FL100. Porrastussyistä ilmaalus
+pitää pysäyttää vaakalentoon pinnalle FL80 muutamaksi minuutiksi.
+Lennonjohto antaa tämän ohjeen sanomalla:"::2:PYSÄYTÄ NOUSU LENTOPINNALLA 80:SELVÄ LENTOPINNALLE 80:SÄILYTÄ LENTOPINTA 80:OIKAISE LENTOPINNALLE 80::1 0 0 0::
+"Mikä seuraavista listoista on sellainen, jossa kaikki kohdat tulee lukea takaisin
+lennonjohdolle?"::2:Selvitys kiitotielle, laskuun, lentoonlähtöön, rullaukseen takaisinpäin, ylittää tai odottaa kiitotielle pääsyä.:Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot.:Lentopintaa koskevat ohjeet, korkeusmittariasetus, pintatuuli, kiitotieinformaatio.:VOR tieto, taajuuksien muutokset, tutkapalvelun tyyppi.::1 0 0 0::
+"Kun luetaan numeroita radioon, 4501 sanotaan näin:"::2:NELJÄ VIISI NOLLA YKSI.:NELJÄ VIISI NOLLA PISTE YKSI.:NELJÄKYMMENTÄ VIISI SATAA YKSI.:NELJÄ TUHATTA VIISI SATAA YKSI::1 0 0 0::
+Miten QNH 1002 luetaan?::2:q n h yksi nolla nolla kaksi:q n h yksi tuplanolla kaksi:q n h sata kaksi:q n h tuhatkaksi::1 0 0 0::
+Miten ilmoitetaan toisiotutkavastaajan tunniste 1000?::2:Koodaa yksi nolla nolla nolla:Koodaa yksi nolla:Koodaa tasan tuhat:Koodaa yksi nolla nolla nolla kilotavua::1 0 0 0::
+"Taajuus 118.125 mhz luetaan:"::2:YKSI YKSI KAHDEKSAN DESIMAALI YKSI KAKSI VIISI.:YKSI YKSI KAHDEKSAN YKSI KAKSI VIISI.:YKSI SATAA KAHDEKSANTOISTA YKSI KAKSI VIISI.:YKSI YKSI KAHDEKSAN PISTE YKSI KAKSI VIISI.::1 0 0 0::
+"Mitä tarkoittaa lyhenne ""IMC""?"::2:Mittarisääolosuhteet.:Lento näkölentosääntöjen mukaisesti.:näkölentosääntöjen mukaisesti.:Lento mittarilentosääntöjen mukaisesti.::1 0 0 0::
+"Hätätilan määritelmä:"::2:Tilanne, jossa vakava ja/tai välitön vaara uhkaa ja tarvitaan välitöntä apua.:"Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvita
+välitöntä apua.":"Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen
+tahon turvallisuuteen, ja johon tarvitaan välitöntä apua.":"Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen
+tahon turvallisuuteen, mutta johon ei tarvita välitöntä apua."::1 0 0 0::
+"Olet juuri laskeutunut kentälle jolla on lennonjohtotorni. Torni kehottaa sinua
+ottamaan yhteyttä kun olet poistunut kiitotieltä. Sinä olet poistunut kiitotieltä
+kun:"::2:Kaikki lentokoneen osat ovat ylittäneet odotusviivan:Lentokoneen ohjaamo on ylittänyt odotusviivan:Lentokone alkaa kääntyä pois kiitotieltä:Lentokoneen pyrstö on kiitotien reunalla::1 0 0 0::
+"Mitä tarkoittaa termi ""VMC""?"::2:Näkösääolosuhteet.:Mittarilentosäännöt.:Lento näkölentosääntöjen mukaisesti.:Näkölentosäännöt.::1 0 0 0::
+Miten lausutaan taajuus 118.1 MHz ilmailun radioliikenteessä?::2:YKSI YKSI KAHDEKSAN DESIMAALI YKSI.:YKSI YKSI KAHDEKSAN PISTE YKSI.:YKSI YKSI KAHDEKSAN YKSI.:YKSI SATAA YKSITOISTA PISTE YKSI.::1 0 0 0::
+"""TEE YLÖSVETO"" tarkoittaa:"::2:Suorita keskeytetty lähestyminen.:Ohita edessäsi oleva ilma-alus.:Tee 360 asteen kaarto.:Rullaa odotuspaikalla olevan lentokoneen ohi.::1 0 0 0::
+Miten toimit radioyhteyden katketessa?::2:Säilytän näkösääolosuhteet ja laskeudun lähimmälle sopivalle lentopaikalle:Teen pakkolaskun, koska akun alhaisen varaustason takia moottori sammuu pian:Jatkan lentosuunnitelman mukaisesti määrälentopaikalle ja noudatan valomerkkejä:Käännyn 180 astetta ja ilmoitan lentäväni takaisin lähtölentopaikalle::1 0 0 0::
+"Tunnus EXTRA lausutaan radioon:"::2:ECHO X-RAY TANGO ROMEO ALFA:EXTRA:ECHO EX TORONTO ROMEO ALFA:ECHO X-RAY TORONTO ROMEO ALFA::1 0 0 0::
+"Pakkotilan määritelmä:"::2:Tilanne koskien ilma-aluksen tai muun kulkuneuvon ja niissä olevien tai muualla havaittujen henkilöiden turvallisuutta, mutta joka ei vaadi välittömiä avustustoimenpiteitä.:Tilanne koskien ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuutta, ja johon tarvitaan välitöntä apua.:Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi ja johon tarvitaan välitöntä apua.:Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvita välitöntä apua.::1 0 0 0::
+"Radioliikenteessä käytettävät VHF taajuudet ovat alueella:"::2:118,0 - 135,975 mhz.:118,0 - 135,975 khz.:118,0 - 121,5 khz.:118,0 - 121,5 mhz.::1 0 0 0::
+"Miten lennonjohtaja sanoo englanniksi ""jouduta kiitotien vapauttamista""?"::2:Expedite vacating runway:Taxi faster out of runway:Speed up freeing runway:Make haste taxiing off runway::1 0 0 0::
+"Kun luetaan numeroita radioon, 496 sanotaan näin:"::2:NELJÄ YHDEKSÄN KUUSI:NELJÄ YHDEKSÄNKYMMENTÄ KUUSI.:NELJÄ SATAA YHDEKSÄNKYMMENTÄ KUUSI.:NELJÄ SATAA YHDEKSÄN KUUSI.::1 0 0 0::
+"Ilma-alus on lentopinnalla FL 100. Pisin odotettavissa oleva teoreettinen radion
+kantama on:"::2:120nm.:1200nm.:100nm.:150nm.::1 0 0 0::
+"Mikäli radio ei toimi, transponderiin tulee koodata:"::2:7600:7700:7000:7500::1 0 0 0::
+"Kun luetaan numeroita radioon, 583 sanotaan näin:"::2:VIISI KAHDEKSAN KOLME.:VIISI SATAA KAHDEKSAN KOLME.:VIISI SATAA KAHDEKSAN KYMMENTÄ KOLME:VIISI KYMMENTÄ KAHDEKSAN KOLME.::1 0 0 0::
+"""EN PYSTY"" sanonta tarkoittaa:"::2:En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan.:En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan ja pyydän uutta selvitystä.:En halua toimia pyyntösi, selvityksen tai ohjeen mukaan.:Toista edellinen lähetyksesi.::1 0 0 0::
+"Mikäli lentokoneen lentoon puututaan ilmassa, millä sanonnalla tunnistava
+lentokone kehottaa tunnistettavan lentokoneen seuraamaan itseään?"::2:FOLLOW:FOLLOW UP:DECEND:WILCO::1 0 0 0::
+"Kun luetaan numeroita radioon, 600 sanotaan näin:"::2:KUUSI SATAA.:KUUS NOL NOL.:KUUSIKYMMENTÄ NOLLA.:KUUSI TUPLA NOLLA.::1 0 0 0::
+"Mitä tarkoittaa lyhenne ""QDM""?"::2:Magneettinen lentosuunta lentokoneesta mittausasemalle.:"Ilmakehän paine lentokentän korkeudessa, muunnettuna vastaamaan meren pinnalla
+vallitsevaa painetta.":Ilmakehän paine lentokentän korkeudessa.:Vallitseva sää lentokentällä.::1 0 0 0::
+"Tunnistettavan koneen lentäjä kertoo tunnistavan
+ koneen lentäjälle olevansa 
+eksyksissä seuraavalla sanonnalla:"::2:AM LOST:MAYDAY:HIJACK:WILCO::1 0 0 0::
+"Sanonta ""KOODAA CHARLIE"" tarkoittaa:"::2:"Valitse transponderiin ""ALT""":Koodaa transponderiin 7700:Transponderi:Varmista, että transponderi on kytketty päälle::1 0 0 0::
+"Lupa rullata odotuspaikalta lentoonlähtöpaikalle sanotaan:"::2:SIIRRY KIITOTIELLE.:SIIRRY LÄHTÖPAIKALLE.:SELVÄ KIITOTIELLE, ODOTA.:SELVÄ LENTOONLÄHTÖPAIKALLE, ODOTA.::1 0 0 0::
+Mikä seuraavista lausunnoista on väärin?::2:Lentopinta sata:Korkeus neljä tuhatta kolmesataa metriä:Koodaa kaksi tuhatta:Näkyvyys tuhat viisisataa metriä::1 0 0 0::
+"Jos lennät konetta, jossa ei ole transponderia, mitä vastaat jos lennonjohtaja
+sanoo sinulle ""ILMOITA TRANSPONDERISI TYYPPI""?"::2:EI TRANSPONDERIA.:EN VOI.:EN VOI KOODATA.:MINULLA EI OLE TRANSPONDERIA.::1 0 0 0::
+"Radiokokeilusanoman tulee olla seuraavan muotoinen:"::2:TURUN TORNI OH-ABC RADIOKOKEILU 119.7:TURUN TORNI OH-ABC MITEN KUULUU:TURUN TORNI OH-ABC RADIOKOKEILU 119.7, KUULUUKO?:TURUN TORNI OH-ABC KUULUVUUSKOKEILU 119.7::1 0 0 0::
+"Taajuus 118.0 Mhz tulee lausua radioon näin:"::2:YKSI YKSI KAHDEKSAN DESIMAALI NOLLA.:YKSI YKSI KAHDEKSAN.:SATA KAHDEKSANTOISTA PISTE NOLLA:YKSI YKSI KAHDEKSAN PISTE NOLLA.::1 0 0 0::
+"Korkeus 11 000ft luetaan:"::2:YKSI YKSI TUHATTA JALKAA.:YKSI YKSI NOLLA NOLLA NOLLA JALKAA.:YKSITOISTA TUHATTA NOLLA JALKAA.:YKSITOISTA TUHATTA JALKAA.::1 0 0 0::
+"Mikä on oikea vastaus lennonjohdon kehotukseen ""O-CD, OTA YHTEYS MALMIN
+TORNIIN 131.250"""::2:VAIHDAN MALMIN TORNI YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA.:WILCO OSCAR CHARLIE DELTA.:OSCAR CHARLIE DELTA, YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA.:YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA.::1 0 0 0::
+"Mikäli lentäjä ei kykene noudattamaan selvitystä, tulee lentäjän käyttää sanontaa:"::2:EN PYSTY:EI VOI HYVÄKSYÄ:PYYDÄN UUTTA SELVITYSTÄ:EN KYKENE::1 0 0 0::
+Mikä koodi kertoo tosisuunnan jostakin asemasta lentokoneeseen?::2:QTE:QDR:QNH:QFE::1 0 0 0::
+"Lentäjä voi lyhentää ilma-aluksensa radiokutsun:"::2:Vasta, kun maa-asema on käyttänyt lyhennettyä kutsutunnusta.:Oman harkintansa mukaan.:Ei lainkaan.:Kun yhteys maa-asemaan on saatu.::1 0 0 0::
+"Korkeus 10 500ft luetaan:"::2:KYMMENEN TUHATTA VIISI SATAA JALKAA.:KYMMENEN PISTE VIISI.:YKSI NOLLA TUHATTA VIISI SATAA JALKAA.:YKSI NOLLA VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA::1 0 0 0::
+"Mitä sanontaa tunnistettavan koneen lentäjän tul
+ee käyttää tunnistavan koneen 
+lentäjälle, jos hän ei pysty noudattamaan saatuja k
+ehotuksia?"::2:UNABLE:CAN NOT:NO:WILCO::1 0 0 0::
+"Paikkailmoitus perusosalla tehdään:"::2:Vain kun on käsketty lennonjohtajan toimesta.:Aina.:Vain auringonlaskun jälkeen.:Vain lentäjän niin harkitessa.::1 0 0 0::
+"Kun lentokone lähettää viestin aloittaen sanonnalla ""Lähetän sokeasti, koska
+vastaanotin on rikki"", pitäisi lisäksi:"::2:Ilmoittaa seuraavan aiotun lähetyksen aika.:Odottaa viisi minuuttia sen hetkisessä paikassa.:Informoida muuta liikennettä kaartamalla 360 astetta oikealle.:Jatkaa varakentälle.::1 0 0 0::
+"ATIS löytyy:"::2:VHF- tai VOR-taajuudelta:Tornin taajuudelta:"Taajuudelta ""MAA""":Lähestymisen taajuudelta::1 0 0 0::
+"Mitä paineasetusta käytetään suhteellisen korkeuden määrittämiseen
+lentokentän pinnasta mitattuna?"::2:QFE:ELT:QBA:QNH::1 0 0 0::
+Miten ilmoitetaan QNH 1000?::2:q n h tasan tuhat:quebec november hotel yksi nolla nolla nolla?:q n h yksi triplanolla:q n h yksi nolla nolla nolla hehtopascalia::1 0 0 0::
+Mikäli lentokoneen lentoon puututaan ilmassa, millä sanonnalla tunnistava lentokone antaa tunnistettavan lentokoneen jatkaa lentoa?::2:proceed:may continue:you land:expedite::1 0 0 0::
+Miten lausutaan taajuus 118.150 MHz ilmailun radioliikenteessä?::2:YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI NOLLA.:YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI.:YKSI YKSI KAHDEKSAN VÄLI YKSI VIISI NOLLA.:YKSI YKSI KAHDEKSAN PISTE YKSI VIISI.::1 0 0 0::
+Miten toimit radioyhteyden katketessa?::2:Säilytän näkösääolosuhteet ja laskeudun lähimmälle sopivalle lentopaikalle:Jatkan lentosuunnitelman mukaisesti määrälentopaikalle ja noudatan valomerkkejä:Käännyn 180 astetta ja ilmoitan lentäväni takaisin lähtölentopaikalle:Teen pakkolaskun, koska akun alhaisen varaustason takia moottori sammuu pian::1 0 0 0::
+"Loppuosa ilmoitetaan:"::2:O-BC LOPPUOSALLA.:LOPPULÄHESTYMINEN, O-BC.:MALMIN TORNI, LOPPUOSA, O-BC.:LÄHESTYN LOPPUOSAA, O-BC.::1 0 0 0::
+"Mitä tarkoittaa termi ""KORKEUS""?(Altitude)"::2:Korkeutta keskimääräisestä merenpinnan tasosta.:Korkeutta lentokentästä.:Standardikorkeutta.:Lentopintaa.::1 0 0 0::
+"Toisiotutkavastaimen koodit: Laiton puuttuminen ilma-aluksen kulkuun?"::2:7500:7700:7600:2000::1 0 0 0::
+"Lennät koilliseen 2 500 jalassa. Ilmoitat suuntasi ja korkeutesi näin:"::2:OHJAUSSUUNTA 045 KORKEUS KAKSI TUHATTA VIISI SATAA JALKAA.:OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI NOLLA NOLLA JALKAA.:OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI SATAA JALKAA.:LENNÄN KORKEUS KAKSI VIISI SATAA JALKAA OHJAUSSUUNTA 045.::1 0 0 0::
+"Haluat rullata lähtöpaikalle. Käytät sanontaa:"::2:PYYDÄN RULLATA.:PYYDÄN RULLAUSSELVITYSTÄ.:PYYDÄN LUPAA RULLATA.:MIKÄ ON RULLAUSSELVITYKSENI.::1 0 0 0::
+"Kun ohjajaa pyydetään valitsemaan uudelleen määrätty moodi ja koodi 6620
+lennonjohtaja käyttää sanontaa:"::2:VAHVISTA KOODI 6620:KOODAA UUDELLEEN 6620:KYTKE 6620:VALITSE UUDELLEEN KOODI 6620::1 0 0 0::
+"Mikä ilmaliikennepalvelu tuottaa automaattista tietoa lentokentästä ja säästä
+lähtevää ja saapuvaa liikennettä varten?"::2:ATIS:AFIS:FIS:LARS::1 0 0 0::
+"""VAPAUTA OIKEALLE"" tarkoittaa:"::2:Käänny oikealle pois kiitotieltä.:Seuraava rullaustien risteys on oikealla puolella:Lentoonlähdön jälkeen kaarra oikealle.:Poistu kiitotieltä välittömästi.::1 0 0 0::
+OTA YHTEYS?::2:CONTACT:MONITOR:CALL:STAND BY FOR::1 0 0 0::
+Minkä radiotaajuuden valitset tunnistustilanteessa?::2:121.500 MHz:125.500 MHz:121.050 MHz:125.050 MHz::1 0 0 0::
+Milloin saa käyttää sanaa VÄLITTÖMÄSTI?::2:Kun on hätä:Ei milloinkaan:Jos ei muuten mene jakeluun:Kun on kiire::1 0 0 0::
+"Miten lausutaan englanniksi sanoma ""KYLLÄ""?"::2:AFFIRM:YES:POSITIVE:CORRECT::1 0 0 0::
+"Kun lentäjä ilmoittaa ""VIISI TUHATTA JALKAA"":"::2:Ilma-aluksen korkeus on 5 000ft keskimerenpinnasta.:Ilma-aluksen korkeus on 5 000ft kentän pinnasta.:"Ilma-aluksen korkeusmittari on asetettu paikalliselle QFE:lle.":Ilma-aluksen korkeusmittari on asetettu standardipaineelle 1012,2 hpa.::1 0 0 0::
+Miten LF-aallot etenevät?::2:Maanpintaeteneminen:Ionosfäärieteneminen:Näköeteneminen:Avaruuseteneminen::1 0 0 0::
+"Tunnus B9-DFF lausutaan radioon:"::2:BRAVO YHDEKSÄN DELTA FOXTROT FOXTROT:BRAVO YHDEKSÄN DELTA KAKSI FOXTROT:BRAVO YSI DELTA FOXTROT FOXTROT:BRAVO YSI DELTA FOX FOX::1 0 0 0::
+Mikä koodi kertoo magneettisen suunnan lentokoneesta jollekin asemalle?::2:QDM:QDR:QNH:QGH::1 0 0 0::
+Mikä on oikea tapa lausua FRI-VOR radioon?::2:FOXTROT ROMEO INDIA VOR.:FRIDAY VOR.:FOX ROMEO INDIA VOR.:FOXTROT ROMEO INDIA VICTOR OSCAR ROMEO.::1 0 0 0::
+"Teet pakkolaskun. Vaurioitat konettasi ja loukkaannut. Lähistöllä ei ole ketään
+joka voisi auttaa. Millä sanonnalla sinun tulisi aloittaa radiosanoma, jolla kutsut
+apua?"::2:MAYDAY, MAYDAY, MAYDAY:PANPAN, PANPAN, PANPAN:MEDICAL, MEDICAL, MEDICAL:HÄTÄTILA, HÄTÄTILA, HÄTÄTILA::1 0 0 0::
+Miten ilmoitat pilven ylärajan 12000 ft?::2:yksi kaksi tuhatta jalkaa:yksi kaksi nolla nolla nolla jalkaa:yksi kaksi nolla sataa jalkaa:kaksitoista tuhatta jalkaa::1 0 0 0::
+"Tutkaympäristössä lennonjohdon antamat suuntaohjeet ovat:"::2:Magneettisia ohjaussuuntia.:Absoluuttisia lentosuuntia.:Magneettisia lentosuuntia.:Tosilentosuuntia.::1 0 0 0::
+"Mitä takoittaa jos radiokokeilun yhteydessä saadaan vastaus ""reading you four""?"::2:Kuuluu tyydyttävästi:Saa selvää silloin tällöin:Kuuluu, mutta huonosti:Kuuluu hyvin::1 0 0 0::
+Mikä on yleinen hätätaajuus?::2:121,500:119,700:123,450:122,425::1 0 0 0::
+"""TEE YMPYRÄÄ OIKEALLE"" tarkoittaa:"::2:Kaarra oikeaan ja jatka sitä kunnes toisin ohjeistetaan.:Käytössä on oikeanpuoleinen laskukierros:Kaarra oikeaan väistääksesi muuta liikennettä.:Tee 360 asteen kaarros oikealle.::1 0 0 0::
+ETA?::2:On the hour:Zero zero:Nil nil:Ow? ow?::1 0 0 0::
+Milloin saa käyttää lyhennettyä kutsumerkkiä?::2:Kun maa-asema on käyttänyt sitä ensin:Valvomattomassa ilmatilassa oman harkinnan mukaan:Auringon nousun ja laskun välisenä aikana:Aina jos sekaantumisen vaaraa ei ole::1 0 0 0::
+Mikä sanomaluokka seuraavista on kiireellisin?::2:Hätäsanoma:Pakkotilasanoma:Lentosäännöllisyyssanoma:Sääsanoma::1 0 0 0::
+Mikä seuraavista ehdollisista selvityksistä on oikein?::2:Behind landing Cessna line up runway 15 and wait behind:Rullaa kiitotielle 15 laskevan Cessnan jälkeen ja odota:Laskevan Cessnan jälkeen rullaa kiitotielle 15:After Cessna has landed line up runway 15 and wait::1 0 0 0::
+"Tunnus 70-VEL lausutaan radioon:"::2:SEITSEMÄN NOLLA VICTOR ECHO LIMA:SEITSEMÄNKYMMENTÄ VICTOR ECHO LIMA:SEITSEMÄN NOLLA WHISKEY ECHO LIMA:SEITSEMÄN NOLLA LIMA::1 0 0 0::
+"Korkeus 5 000ft luetaan:"::2:VIISI TUHATTA JALKAA.:VIISI ZERO ZERO ZERO.:VIISI KYMMENTÄ SATAA.:VIISI NOLLA NOLLA NOLLA JALKAA.::1 0 0 0::
+"Kun torni pyytää ""ILMOITA MYÖTÄTUULI"", lentäjän tulee ilmoittaa:"::2:Kun lentokone on laskukierroksessa, toisen ja kolmannen kaarron välissä.:Suurin sallittu myötätuulikomponentti laskussa.:Arvioitu tuulen nopeus ja suunta lentokorkeudella.:Kun lentokone on laskukierroksen loppuosalla.::1 0 0 0::
+Miten VHF-aallot etenevät?::2:Näköeteneminen:Maanpintaeteneminen:Ionosfäärieteneminen:Avaruuseteneminen::1 0 0 0::
+Mikä seuraavista ei ole takaisinluettava sanoma?::2:Report terminal area boundary outbound:Hold short of runway 24:Leave control zone via SIILI, VFR:Transition level 55, QNH 1002::1 0 0 0::
+"Miten lausutaan englanniksi sanoma ""ÄLÄ HUOMIOI""?"::2:DISREGARD:IGNORE:DO NOT ACKNOWLEDGE:EALA HOUMAIOU::1 0 0 0::
