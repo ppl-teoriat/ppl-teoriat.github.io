@@ -1,0 +1,24 @@
+remote_theme: riggraz/no-style-please
+
+title: LAPL/PPL(A) Kysymyspankki
+author: Pilotti
+email: ppl-teoriat@gmail.com
+url: https://ppl-teoriat.github.io
+description: > # description of the site (multiple lines allowed)
+  Ilmainen opiskelutyökalu LAPL/PPL(A)-oppilaille
+
+favicon: "icon.png"
+
+permalink: /:slug
+
+theme_config:
+  appearance: "light"
+  date_format: "%Y-%m-%d"
+  show_description: false
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
