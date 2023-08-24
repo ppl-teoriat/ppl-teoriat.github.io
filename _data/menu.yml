@@ -1,0 +1,7 @@
+entries:
+  - title: Valitse kieli / Choose your language
+    entries:
+      - title: Suomi
+        url: aloita
+      - title: English
+        url: start
