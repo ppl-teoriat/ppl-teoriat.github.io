@@ -9,6 +9,8 @@ description: > # description of the site (multiple lines allowed)
 
 favicon: "icon.png"
 
+permalink: /:slug
+
 theme_config:
   appearance: "light"
   date_format: "%Y-%m-%d"
