@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lataus
-slug: lataus
+title: Latausohjeet
+slug: lataa
 ---
 
 Lataussivu
