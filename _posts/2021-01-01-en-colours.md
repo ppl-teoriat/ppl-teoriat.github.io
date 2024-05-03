@@ -23,3 +23,11 @@ The question bank uses the `Multiple Choice for Anki` addon. We will now install
 1. Click on the `Multiple Choice for Anki` text
 1. Change the text that says `DEFAULT_COLOURING` to say `ALTERNATE_COLORING`
 1. Save by pressing `OK`
+
+## What next?
+
+You can now revise for your aviation theoretical exam using Anki.
+
+> [**Mobile installation instructions**](/mobile)
+
+> [**Anki usage instructions**](/usage)

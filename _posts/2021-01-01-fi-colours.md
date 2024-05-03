@@ -24,3 +24,11 @@ Ladataan se nyt.
 1. Klikkaa `Multiple Choice for Anki` -tekstiä
 1. Vaihda tekstikentässä olevan `DEFAULT_COLOURING`-tekstin `ALTERNATE_COLORING`-tekstiksi
 1. Tallenna painamalla `OK`
+
+## Mitä seuraavaksi?
+
+Nyt voit harjoitella ilmailun teoriakokeisiin Anki-pöytäsovelluksella.
+
+> [**Mobiilisovelluksen asennusohjeet**](/mobiili)
+
+> [**Ankin käyttöohje**](/kaytto)
