@@ -119,7 +119,7 @@ authority.":18 months.:6 months.::1 0 0 0::
 Private Pilot Licence skill test, be and how many full stop landings at different
 aerodromes must be made at this flight?"::2:150 NM; 2 landings.:100 NM; 4 landings.:100 NM; 2 landings.:200 NM; 4 landings.::1 0 0 0::
 What SSR squawk should be set in an emergency?::2:7700:7600:7000:7500::1 0 0 0::
-"Runway end lights are:"::2:White:Red:Green:Blue::1 0 0 0::
+"Runway end lights are:"::2:Red:White:Green:Blue::1 0 0 0::
 "What is the meaning of ""WIP""?"::2:Work in progress.:Weight increase procedure.:With permission.:With effect from.::1 0 0 0::
 "When two aircraft are converging at approximately the same level the one that
 has the other on its right is required to give way. True or false?"::2:True, unless the other aircraft has a glider on tow.:True.:False, provided the other aircraft is not towing anything.:False. The one that has the other on its left has right of way::1 0 0 0::
