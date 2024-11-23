@@ -202,7 +202,7 @@ Mikä tai mitkä mittarit ovat kytkettynä kokonaispaineen lähteeseen?::2:Vain 
 "Nelitahtisen moottorin oikea työkierto on:"::2:Imu-, puristus-, työ- ja poistotahti.:Imu-, työ-, puristus-ja poistotahti.:Poisto-, imu-, työ-ja puristustahti.:Poisto-, työ-, puristus-ja imutahti.::1 0 0 0::
 siiven TORSIOn tehtävä on::2:lisätä kiertojäykkyyttä:antaa siivelle aerodynaamisesti edullinen muoto:lisätä taivutusjäykkyyttä:lisätä leikkauslujuutta::1 0 0 0::
 Mikä on iskutilavuus?::2:iskunpituuden ja männän poikkipinta-alan tulo:syliteriputken sisämitta:alakuolokohdan ja yläkuolokohdan välinen etäisyys:painetankkauksen mittayksikkö::1 0 0 0::
-"Yhden Otto-kierron aikana nelitahtisen mäntämoottorin venttiilit aukeavat:"::2:Imutahdin aikana:Kaksi kertaa.:Työtahdin aikana.:Kerran.::1 0 0 0::
+"Yhden Otto-kierron aikana nelitahtisen mäntämoottorin venttiilit aukeavat:"::2:Kerran.:Kaksi kertaa.:Työtahdin aikana.:Imutahdin aikana::1 0 0 0::
 Dynaaminen paine on::2:Kokonaispaine - staattinen paine:Staattinen + kokonaispaine:dynaaminen paine + staattinen paine:kokonaispaine - dynaaminen paine::1 0 0 0::
 "Lentomoottorin kahdennetun sytytysjärjestelmän yhtenä etuna on:"::2:Moottorin hyötysuhteen paraneminen, jolloin myös suorituskyky paranee.:Tasaisempi lämmönjako:Kaksi kertaa enemmän tehoa.:Sylinterinpään paineen tasaaminen.::1 0 0 0::
 "Moottori on kiinni koneessa yleisimmin:?"::2:Moottoripukin välityksellä:Suoraan tuliseinässä:Suoraan rungossa:Tuliseinän välityksellä::1 0 0 0::
